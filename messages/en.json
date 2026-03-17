@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IG Water Treatment International | Pure Water Solutions",
+      "description": "Over 20 years designing, manufacturing, and delivering customized water treatment systems for residential, commercial, and industrial clients worldwide."
+    },
+    "about": {
+      "title": "About Us | IG Water Treatment International",
+      "description": "Innovation and leadership in water treatment since 2017. Learn about our story, mission, and commitment to clean water."
+    },
+    "services": {
+      "title": "Water Treatment Services | IG Water Treatment International",
+      "description": "Comprehensive water treatment solutions from consulting to implementation for residential, commercial, and industrial needs."
+    },
+    "parts": {
+      "title": "Parts & Components | IG Water Treatment International",
+      "description": "Top-quality water treatment parts — FRP tanks, control valves, filtration minerals, and complete assembled equipment."
+    },
+    "waterTesting": {
+      "title": "Water Testing Services | IG Water Treatment International",
+      "description": "Professional water testing and analysis services. Know what's in your water and protect your health."
+    },
+    "contact": {
+      "title": "Contact Us | IG Water Treatment International",
+      "description": "Get in touch for a free consultation about water quality solutions. Phone, email, or visit us in Orlando, FL."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "parts": "Parts",
+    "waterTesting": "Water Testing",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "home": {
+    "hero": {
+      "tagline": "IG Water Treatment International",
+      "title": "Pure Water. Trusted Solutions.",
+      "subtitle": "Over 20 years designing, manufacturing, and delivering customized water treatment systems for residential, commercial, and industrial clients worldwide.",
+      "ctaPrimary": "Get a Free Quote",
+      "ctaSecondary": "Our Services",
+      "phone": "+1 407-745-5002"
+    },
+    "stats": {
+      "years": "Years Experience",
+      "systems": "Systems Installed",
+      "continents": "Continents Served",
+      "custom": "Custom Solutions"
+    },
+    "services": {
+      "tagline": "Our Services",
+      "title": "What We Do",
+      "waterTreatment": {
+        "title": "Water Treatment Systems",
+        "description": "Custom residential, commercial & industrial solutions designed to deliver pure, safe water."
+      },
+      "waterTesting": {
+        "title": "Water Testing",
+        "description": "Professional analysis & contaminant detection to ensure your water meets the highest safety standards."
+      },
+      "partsService": {
+        "title": "Parts & Components",
+        "description": "FRP tanks, valves, minerals & filtration media — top-quality components at exceptional value."
+      }
+    },
+    "products": {
+      "tagline": "Our Catalog",
+      "title": "Our Products",
+      "viewAll": "View All",
+      "frpTanks": {
+        "title": "FRP Filter Tanks",
+        "description": "Residential, commercial & industrial pressure vessels"
+      },
+      "reverseOsmosis": {
+        "title": "Reverse Osmosis Systems",
+        "description": "Industrial & home RO water purification"
+      },
+      "ozoneGenerators": {
+        "title": "Ozone Generators",
+        "description": "Chemical-free, high-potential disinfection"
+      },
+      "controlValves": {
+        "title": "Control Valves",
+        "description": "Clack & Fleck precision valves"
+      },
+      "filtrationMinerals": {
+        "title": "Filtration Minerals",
+        "description": "Activated carbon, resins, KDF, garnet"
+      }
+    },
+    "whyUs": {
+      "tagline": "Our Advantages",
+      "title": "Why Choose Us",
+      "features": {
+        "0": {
+          "title": "Proprietary Manufacturing",
+          "description": "We engineer our own products in-house, ensuring the highest quality standards."
+        },
+        "1": {
+          "title": "International Reach",
+          "description": "Solutions delivered from Latin America to Africa — trusted worldwide."
+        },
+        "2": {
+          "title": "Well Water Experts",
+          "description": "Specialized in mineral removal & contaminant neutralization for well water systems."
+        },
+        "3": {
+          "title": "Custom Engineering",
+          "description": "Every system tailored to your specific water needs — no one-size-fits-all."
+        }
+      }
+    },
+    "testimonial": {
+      "quote": "For three decades, I have been immersed in the world of water, exploring solutions, challenging boundaries, and significantly impacting the water quality we consume.",
+      "author": "Ivan Danilo Garcia",
+      "role": "Founder"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Water Quality?",
+      "subtitle": "Get a free consultation and custom solution for your water treatment needs.",
+      "button": "Get a Quote"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About IG Water Treatment International",
+      "subtitle": "Innovation and Leadership in Water Treatment Since 2017"
+    },
+    "story": {
+      "tagline": "Who We Are",
+      "title": "Our Story",
+      "paragraph1": "Founded in 2017 by Ivan Garcia, IG Water Treatment International was born from three decades of passion for water treatment solutions.",
+      "paragraph2": "With cutting-edge technology and vertically integrated operations — from design to manufacturing to distribution — we deliver comprehensive water treatment solutions that transform lives.",
+      "paragraph3": "Our commitment to innovation and quality has positioned us as a trusted partner for residential, commercial, and industrial clients worldwide."
+    },
+    "pillars": {
+      "tagline": "Our Core Values",
+      "title": "What Defines Us",
+      "0": {
+        "title": "Proprietary Production",
+        "description": "We go beyond distribution — we engineer our own water treatment products. Managing the entire production process in-house ensures the highest standards in quality, customization, and innovation."
+      },
+      "1": {
+        "title": "International Reach",
+        "description": "Our impact goes beyond Orlando. We've delivered water treatment solutions across the globe — from Latin America to Africa — helping communities access reliable, clean water."
+      },
+      "2": {
+        "title": "Well Water Leadership",
+        "description": "We tackle issues such as mineral buildup, contaminant removal, and system optimization. Our specialized team ensures every well delivers clean, safe, and dependable water."
+      },
+      "3": {
+        "title": "Custom Solutions",
+        "description": "Every home and business has distinct needs. Whether it's softening hard water, descaling pipelines, or developing a comprehensive purification system — we tailor everything."
+      }
+    },
+    "mission": {
+      "tagline": "Our Mission",
+      "title": "Our Mission",
+      "statement": "We don't just treat water — we transform lives. Our commitment is to offer sustainable, efficient, and trusted water treatment solutions."
+    },
+    "founder": {
+      "title": "Founder & CEO",
+      "quote": "When you think of water, think of IG Water Treatment International. We don't just sell water treatment systems — we offer peace of mind.",
+      "initials": "IG",
+      "name": "Ivan Danilo Garcia",
+      "role": "Founder & CEO"
+    },
+    "cta": {
+      "title": "Ready to Transform Your Water Quality?",
+      "subtitle": "Get a free consultation and custom solution for your water treatment needs.",
+      "button": "Get a Quote"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Comprehensive Water Treatment Solutions",
+      "subtitle": "From initial evaluation to full system implementation — customized for residential, commercial, and industrial needs."
+    },
+    "consulting": {
+      "title": "Strategic Consulting",
+      "description": "We provide strategic consulting for drinking water and wastewater treatment projects. From initial evaluation to full system implementation, our customized solutions ensure performance, safety, and regulatory compliance."
+    },
+    "technology": {
+      "title": "Our Technologies",
+      "subtitle": "Advanced water treatment technologies for every application",
+      "ozone": { "title": "Ozone Systems", "description": "Powerful eco-friendly disinfection" },
+      "mixedBed": { "title": "Mixed Bed Filters", "description": "High-efficiency purification" },
+      "softening": { "title": "Softening Resins", "description": "Tailored solutions for specific water profiles" },
+      "valves": { "title": "Filter Valves", "description": "Durable, high-performance components" },
+      "ro": { "title": "Reverse Osmosis Units", "description": "Precision filtration for clean water" },
+      "uv": { "title": "UV Lamps", "description": "Effective ultraviolet disinfection" },
+      "chlorinators": { "title": "Chlorinators", "description": "Reliable chlorine dosing systems" },
+      "specialized": { "title": "Specialized Systems", "description": "Custom-engineered for unique challenges" },
+      "frp": { "title": "FRP & Specialty Tanks", "description": "Fiber-reinforced storage and treatment" },
+      "pumps": { "title": "Water Pumps & Equipment", "description": "Essential equipment for every application" }
+    },
+    "sustainability": {
+      "title": "Sustainability Commitment",
+      "description": "Environmental care is at the heart of everything we do. We are committed to responsible, sustainable practices that ensure water safety while preserving ecological balance."
+    },
+    "support": {
+      "title": "Dedicated Support",
+      "description": "From product selection to post-installation, we provide personalized service every step of the way. Our team offers ongoing technical assistance and responsive communication to ensure your systems perform at their best."
+    },
+    "cta": {
+      "title": "Need a Custom Water Treatment Solution?",
+      "button": "Contact Us Today"
+    }
+  },
+  "parts": {
+    "hero": {
+      "title": "Parts & Components",
+      "subtitle": "Top-quality parts at exceptional value — filters, tanks, valves, minerals, and complete assembled equipment."
+    },
+    "tanks": {
+      "title": "Tanks",
+      "residential": {
+        "title": "Residential Tanks",
+        "description": "Black tanks, residential equipment, and RO systems for home water treatment."
+      },
+      "commercial": {
+        "title": "Commercial Tanks",
+        "description": "Blue tanks and medium-scale filtration units for commercial applications."
+      },
+      "industrial": {
+        "title": "Industrial Tanks",
+        "description": "Large-scale industrial treatment tanks for heavy-duty water processing."
+      }
+    },
+    "valves": {
+      "title": "Valves",
+      "clack": {
+        "title": "Clack Valves",
+        "description": "3-button, 5-button, and control valve configurations for precise water treatment control."
+      },
+      "fleck": {
+        "title": "Fleck Valves",
+        "description": "Fleck 2510, 2570, 3150, and Autotrol models for reliable system operation."
+      }
+    },
+    "minerals": {
+      "title": "Minerals & Media",
+      "activatedCarbon": {
+        "title": "Activated Carbon Catalyst",
+        "description": "Filters chlorine, chloramine, herbicides, and pesticides. Eliminates unpleasant tastes and odors."
+      },
+      "anionicResin": {
+        "title": "Anionic Resin",
+        "description": "Reduces sulfates, nitrates, and chlorides for cleaner water."
+      },
+      "cationicResin": {
+        "title": "Cationic Resin",
+        "description": "Polymeric ion exchange for effective water softening."
+      },
+      "kdf": {
+        "title": "KDF",
+        "description": "Eliminates chlorine, iron, hydrogen sulfide, calcium carbonate, magnesium, chromium, bacteria, algae, and fungi."
+      },
+      "garnet": {
+        "title": "Garnet",
+        "description": "Retains suspended solids for fine particle filtration."
+      }
+    },
+    "requestQuote": "Request Quote",
+    "advice": {
+      "title": "Professional Advice",
+      "description": "Our experts help you select the right equipment for each project, providing continuous technical support and after-sales assistance."
+    }
+  },
+  "waterTesting": {
+    "hero": {
+      "title": "Professional Water Testing Services",
+      "subtitle": "Know What's in Your Water — Protect Your Health",
+      "description": "Whether city water or private well, knowing what you're drinking is essential.",
+      "cta": "Schedule a Free Water Test"
+    },
+    "types": {
+      "title": "Testing Services",
+      "subtitle": "Comprehensive water analysis for every parameter",
+      "ph": "pH Testing",
+      "turbidity": "Turbidity Test",
+      "pesticides": "Pesticides",
+      "nitrate": "Nitrate & Phosphate",
+      "redox": "Redox",
+      "bacteria": "Bacteria",
+      "chloride": "Chloride Test",
+      "dissolvedOxygen": "Dissolved Oxygen",
+      "conductivity": "Electrical Conductivity",
+      "metals": "Metals",
+      "salinity": "Salinity Testing",
+      "temperature": "Temperature"
+    },
+    "whyMatters": {
+      "title": "Why Water Testing Matters",
+      "contaminants": {
+        "title": "Invisible Contaminants",
+        "description": "Many contaminants are colorless, tasteless, and odorless — making regular testing the only reliable safeguard."
+      },
+      "safety": {
+        "title": "Safety Standards",
+        "description": "Maximum Contaminant Levels (MCLs) are set by federal and state authorities to protect public health."
+      },
+      "quality": {
+        "title": "Water Quality Risks",
+        "description": "Common issues include aging infrastructure, agricultural runoff, chemical spills, and unregulated private wells."
+      }
+    },
+    "comparison": {
+      "title": "City Water vs. Well Water Testing",
+      "city": {
+        "title": "City Water Testing",
+        "description": "Municipal water systems require regular monitoring for treatment byproducts and infrastructure contaminants.",
+        "items": {
+          "0": "Physical parameters, chlorine & chloramine",
+          "1": "Toxic metals, plastic pipe chemicals",
+          "2": "Trihalomethanes (THMs), Haloacetic acids (HAAs)",
+          "3": "Radioactive particles, chlorate",
+          "4": "Disinfection byproducts and emerging contaminants"
+        }
+      },
+      "well": {
+        "title": "Well Water Testing",
+        "description": "Private wells are unregulated and must be tested regularly for natural and man-made contaminants.",
+        "items": {
+          "0": "General chemistry, hardness & alkalinity",
+          "1": "Heavy metals, nitrate & nitrite",
+          "2": "Coliform & E. coli, industrial chemicals",
+          "3": "Disinfection byproducts, PFAS, petroleum",
+          "4": "Pesticides, herbicides, and volatile organic compounds"
+        }
+      }
+    },
+    "healthImpact": {
+      "title": "The Health Impact",
+      "stats": {
+        "0": {
+          "number": "20-50L",
+          "title": "Daily Water Need",
+          "description": "Every person needs 20-50 liters of clean water daily for drinking, cooking, and hygiene."
+        },
+        "1": {
+          "number": "1.8M+",
+          "title": "Annual Deaths",
+          "description": "Over 1.8 million people die annually from waterborne illnesses worldwide."
+        },
+        "2": {
+          "number": "100%",
+          "title": "Ecosystem Impact",
+          "description": "Contaminated water affects humans, plants, animals, and ecosystems without exception."
+        }
+      }
+    },
+    "cta": {
+      "title": "Let's Test Your Water Today",
+      "description": "Get a professional water analysis and take the first step toward clean, safe water for your home or business.",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get In Touch",
+      "subtitle": "Have questions about water quality or need a free consultation? We're here to help."
+    },
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "service": "Service Interest",
+    "servicePlaceholder": "Select a service",
+    "serviceOptions": {
+      "waterTreatment": "Water Treatment System",
+      "waterTesting": "Water Testing",
+      "parts": "Parts & Components",
+      "maintenance": "Maintenance",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again or contact us directly.",
+    "info": {
+      "title": "Contact Information",
+      "phone": {
+        "label": "Phone"
+      },
+      "email": {
+        "label": "Email"
+      },
+      "address": {
+        "label": "Address"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find answers to the most common questions about our water treatment services.",
+      "q1": { "question": "What services do you offer?", "answer": "We provide installation, maintenance, repair, and upgrade of residential, commercial, and industrial water treatment systems." },
+      "q2": { "question": "What types of parts do you offer?", "answer": "We offer filters, RO membranes, flow meters, valves, pumps, and more — all top-quality components." },
+      "q3": { "question": "How do I know which system is right for me?", "answer": "Our experts provide personalized consultation based on your local water quality, intended use, and budget." },
+      "q4": { "question": "What's the installation process?", "answer": "We provide full service from site planning to equipment installation, configuration, and testing." },
+      "q5": { "question": "Do you offer maintenance services?", "answer": "Yes, we offer preventive maintenance including inspections, cleaning, water quality testing, and part replacement." },
+      "q6": { "question": "What's your warranty policy?", "answer": "We provide warranties on all parts and accessories with repair or replacement coverage." },
+      "q7": { "question": "What if I have a problem with my system?", "answer": "Contact us for phone support, on-site service, or troubleshooting guidance." }
+    },
+    "social": {
+      "title": "Follow Us on Social Media"
+    }
+  },
+  "footer": {
+    "tagline": "Pure water solutions since 2017",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "serviceList": {
+      "waterTreatment": "Water Treatment",
+      "waterTesting": "Water Testing",
+      "partsComponents": "Parts & Components",
+      "maintenance": "Maintenance"
+    },
+    "contactTitle": "Contact",
+    "address": "1205 E Landstreet Rd, Orlando, FL 32824",
+    "rights": "All rights reserved."
+  }
+}

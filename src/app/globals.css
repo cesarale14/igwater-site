@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #0C4A6E;
+  --color-primary-light: #0EA5E9;
+  --color-accent-teal: #14B8A6;
+  --color-accent-gold: #F59E0B;
+  --color-dark-navy: #0F172A;
+  --color-light-gray: #F8FAFC;
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #64748B;
+  --color-success: #10B981;
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-heading: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    color: var(--color-text-primary);
+    background: #ffffff;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+@keyframes ripple {
+  0% { transform: scale(1); opacity: 0.3; }
+  100% { transform: scale(4); opacity: 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-ripple {
+  animation: ripple 3s ease-out infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.water-gradient {
+  background: linear-gradient(135deg, #0C4A6E 0%, #0EA5E9 50%, #14B8A6 100%);
+}
+
+.hero-gradient {
+  background: linear-gradient(180deg, #0F172A 0%, #0C4A6E 100%);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F8FAFC;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0EA5E9;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0C4A6E;
+}

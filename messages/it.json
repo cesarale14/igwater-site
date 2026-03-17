@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IG Water Treatment International | Soluzioni di Acqua Pura",
+      "description": "Oltre 20 anni di progettazione, produzione e consegna di sistemi di trattamento dell'acqua personalizzati per clienti residenziali, commerciali e industriali in tutto il mondo."
+    },
+    "about": {
+      "title": "Chi Siamo | IG Water Treatment International",
+      "description": "Innovazione e leadership nel trattamento dell'acqua dal 2017. Scopri la nostra storia, missione e impegno per l'acqua pulita."
+    },
+    "services": {
+      "title": "Servizi di Trattamento dell'Acqua | IG Water Treatment International",
+      "description": "Soluzioni complete di trattamento dell'acqua, dalla consulenza all'implementazione, per esigenze residenziali, commerciali e industriali."
+    },
+    "parts": {
+      "title": "Parti e Componenti | IG Water Treatment International",
+      "description": "Parti di trattamento dell'acqua di alta qualita — serbatoi FRP, valvole di controllo, minerali di filtrazione e attrezzature completamente assemblate."
+    },
+    "waterTesting": {
+      "title": "Servizi di Analisi dell'Acqua | IG Water Treatment International",
+      "description": "Servizi professionali di analisi e test dell'acqua. Scopri cosa contiene la tua acqua e proteggi la tua salute."
+    },
+    "contact": {
+      "title": "Contattaci | IG Water Treatment International",
+      "description": "Contattaci per una consulenza gratuita sulle soluzioni per la qualita dell'acqua. Telefono, e-mail o visitaci a Orlando, FL."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "parts": "Parti",
+    "waterTesting": "Analisi dell'Acqua",
+    "contact": "Contatti",
+    "getQuote": "Richiedi un Preventivo"
+  },
+  "home": {
+    "hero": {
+      "tagline": "IG Water Treatment International",
+      "title": "Acqua Pura. Soluzioni Affidabili.",
+      "subtitle": "Oltre 20 anni di progettazione, produzione e consegna di sistemi di trattamento dell'acqua personalizzati per clienti residenziali, commerciali e industriali in tutto il mondo.",
+      "ctaPrimary": "Preventivo Gratuito",
+      "ctaSecondary": "I Nostri Servizi",
+      "phone": "+1 407-745-5002"
+    },
+    "stats": {
+      "years": "Anni di Esperienza",
+      "systems": "Sistemi Installati",
+      "continents": "Continenti Serviti",
+      "custom": "Soluzioni Personalizzate"
+    },
+    "services": {
+      "tagline": "I Nostri Servizi",
+      "title": "Cosa Facciamo",
+      "waterTreatment": {
+        "title": "Sistemi di Trattamento dell'Acqua",
+        "description": "Soluzioni residenziali, commerciali e industriali personalizzate per fornire acqua pura e sicura."
+      },
+      "waterTesting": {
+        "title": "Analisi dell'Acqua",
+        "description": "Analisi professionale e rilevamento di contaminanti per garantire che la tua acqua soddisfi i piu alti standard di sicurezza."
+      },
+      "partsService": {
+        "title": "Parti e Componenti",
+        "description": "Serbatoi FRP, valvole, minerali e mezzi filtranti — componenti di alta qualita a un valore eccezionale."
+      }
+    },
+    "products": {
+      "tagline": "Il Nostro Catalogo",
+      "title": "I Nostri Prodotti",
+      "viewAll": "Vedi Tutti",
+      "frpTanks": {
+        "title": "Serbatoi Filtro FRP",
+        "description": "Recipienti a pressione residenziali, commerciali e industriali"
+      },
+      "reverseOsmosis": {
+        "title": "Sistemi di Osmosi Inversa",
+        "description": "Purificazione dell'acqua per osmosi inversa industriale e domestica"
+      },
+      "ozoneGenerators": {
+        "title": "Generatori di Ozono",
+        "description": "Disinfezione ad alto potenziale senza prodotti chimici"
+      },
+      "controlValves": {
+        "title": "Valvole di Controllo",
+        "description": "Valvole di precisione Clack e Fleck"
+      },
+      "filtrationMinerals": {
+        "title": "Minerali di Filtrazione",
+        "description": "Carbone attivo, resine, KDF, granato"
+      }
+    },
+    "whyUs": {
+      "tagline": "I Nostri Vantaggi",
+      "title": "Perche Sceglierci",
+      "features": {
+        "0": {
+          "title": "Produzione Proprietaria",
+          "description": "Progettiamo i nostri prodotti internamente, garantendo i piu alti standard di qualita."
+        },
+        "1": {
+          "title": "Portata Internazionale",
+          "description": "Soluzioni consegnate dall'America Latina all'Africa — fiducia in tutto il mondo."
+        },
+        "2": {
+          "title": "Esperti in Acqua di Pozzo",
+          "description": "Specializzati nella rimozione di minerali e neutralizzazione di contaminanti per sistemi di acqua di pozzo."
+        },
+        "3": {
+          "title": "Ingegneria Personalizzata",
+          "description": "Ogni sistema adattato alle tue specifiche esigenze idriche — nessuna soluzione standardizzata."
+        }
+      }
+    },
+    "testimonial": {
+      "quote": "Per tre decenni, sono stato immerso nel mondo dell'acqua, esplorando soluzioni, sfidando i limiti e influenzando significativamente la qualita dell'acqua che consumiamo.",
+      "author": "Ivan Danilo Garcia",
+      "role": "Fondatore"
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Qualita della Tua Acqua?",
+      "subtitle": "Ottieni una consulenza gratuita e una soluzione personalizzata per le tue esigenze di trattamento dell'acqua.",
+      "button": "Richiedi un Preventivo"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Chi e IG Water Treatment International",
+      "subtitle": "Innovazione e Leadership nel Trattamento dell'Acqua Dal 2017"
+    },
+    "story": {
+      "tagline": "Chi Siamo",
+      "title": "La Nostra Storia",
+      "paragraph1": "Fondata nel 2017 da Ivan Garcia, IG Water Treatment International e nata da tre decenni di passione per le soluzioni di trattamento dell'acqua.",
+      "paragraph2": "Con tecnologia all'avanguardia e operazioni integrate verticalmente — dalla progettazione alla produzione alla distribuzione — forniamo soluzioni complete di trattamento dell'acqua che trasformano vite.",
+      "paragraph3": "Il nostro impegno per l'innovazione e la qualita ci ha posizionato come partner affidabile per clienti residenziali, commerciali e industriali in tutto il mondo."
+    },
+    "pillars": {
+      "tagline": "I Nostri Valori",
+      "title": "Cosa Ci Definisce",
+      "0": {
+        "title": "Produzione Proprietaria",
+        "description": "Andiamo oltre la distribuzione — progettiamo i nostri prodotti per il trattamento dell'acqua. La gestione dell'intero processo produttivo internamente garantisce i piu alti standard in qualita, personalizzazione e innovazione."
+      },
+      "1": {
+        "title": "Portata Internazionale",
+        "description": "Il nostro impatto va oltre Orlando. Abbiamo consegnato soluzioni di trattamento dell'acqua in tutto il mondo — dall'America Latina all'Africa — aiutando le comunita ad accedere ad acqua pulita e affidabile."
+      },
+      "2": {
+        "title": "Leadership nell'Acqua di Pozzo",
+        "description": "Affrontiamo problemi come l'accumulo di minerali, la rimozione di contaminanti e l'ottimizzazione dei sistemi. Il nostro team specializzato garantisce che ogni pozzo fornisca acqua pulita, sicura e affidabile."
+      },
+      "3": {
+        "title": "Soluzioni Personalizzate",
+        "description": "Ogni casa e azienda ha esigenze distinte. Che si tratti di addolcire l'acqua dura, decalcificare le tubature o sviluppare un sistema completo di purificazione — adattiamo tutto."
+      }
+    },
+    "mission": {
+      "tagline": "La Nostra Missione",
+      "title": "La Nostra Missione",
+      "statement": "Non ci limitiamo a trattare l'acqua — trasformiamo vite. Il nostro impegno e offrire soluzioni di trattamento dell'acqua sostenibili, efficienti e affidabili."
+    },
+    "founder": {
+      "title": "Fondatore e CEO",
+      "quote": "Quando pensi all'acqua, pensa a IG Water Treatment International. Non vendiamo semplicemente sistemi di trattamento dell'acqua — offriamo tranquillita.",
+      "initials": "IG",
+      "name": "Ivan Danilo Garcia",
+      "role": "Fondatore e CEO"
+    },
+    "cta": {
+      "title": "Pronto a Trasformare la Qualita della Tua Acqua?",
+      "subtitle": "Ottieni una consulenza gratuita e una soluzione personalizzata per le tue esigenze di trattamento dell'acqua.",
+      "button": "Richiedi un Preventivo"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Soluzioni Complete di Trattamento dell'Acqua",
+      "subtitle": "Dalla valutazione iniziale all'implementazione completa del sistema — personalizzato per esigenze residenziali, commerciali e industriali."
+    },
+    "consulting": {
+      "title": "Consulenza Strategica",
+      "description": "Offriamo consulenza strategica per progetti di trattamento dell'acqua potabile e delle acque reflue. Dalla valutazione iniziale all'implementazione completa, le nostre soluzioni personalizzate garantiscono prestazioni, sicurezza e conformita normativa."
+    },
+    "technology": {
+      "title": "Le Nostre Tecnologie",
+      "subtitle": "Tecnologie avanzate di trattamento dell'acqua per ogni applicazione",
+      "ozone": { "title": "Sistemi a Ozono", "description": "Disinfezione ecologica ad alta potenza" },
+      "mixedBed": { "title": "Filtri a Letto Misto", "description": "Purificazione ad alta efficienza" },
+      "softening": { "title": "Resine Addolcenti", "description": "Soluzioni adattate a specifici profili idrici" },
+      "valves": { "title": "Valvole di Filtrazione", "description": "Componenti durevoli e ad alte prestazioni" },
+      "ro": { "title": "Unita di Osmosi Inversa", "description": "Filtrazione di precisione per acqua pulita" },
+      "uv": { "title": "Lampade UV", "description": "Disinfezione ultravioletta efficace" },
+      "chlorinators": { "title": "Cloratori", "description": "Sistemi affidabili di dosaggio del cloro" },
+      "specialized": { "title": "Sistemi Specializzati", "description": "Progettati su misura per sfide uniche" },
+      "frp": { "title": "Serbatoi FRP e Speciali", "description": "Stoccaggio e trattamento in fibra rinforzata" },
+      "pumps": { "title": "Pompe e Attrezzature", "description": "Attrezzature essenziali per ogni applicazione" }
+    },
+    "sustainability": {
+      "title": "Impegno per la Sostenibilita",
+      "description": "La cura dell'ambiente e al centro di tutto cio che facciamo. Siamo impegnati in pratiche responsabili e sostenibili che garantiscono la sicurezza dell'acqua preservando l'equilibrio ecologico."
+    },
+    "support": {
+      "title": "Supporto Dedicato",
+      "description": "Dalla selezione dei prodotti alla post-installazione, offriamo un servizio personalizzato in ogni fase. Il nostro team fornisce assistenza tecnica continua e comunicazione reattiva per garantire il funzionamento ottimale dei vostri sistemi."
+    },
+    "cta": {
+      "title": "Hai Bisogno di una Soluzione di Trattamento dell'Acqua Personalizzata?",
+      "button": "Contattaci Oggi"
+    }
+  },
+  "parts": {
+    "hero": {
+      "title": "Parti e Componenti",
+      "subtitle": "Parti di alta qualita a un valore eccezionale — filtri, serbatoi, valvole, minerali e attrezzature completamente assemblate."
+    },
+    "tanks": {
+      "title": "Serbatoi",
+      "residential": {
+        "title": "Serbatoi Residenziali",
+        "description": "Serbatoi neri, attrezzature residenziali e sistemi di osmosi inversa per il trattamento domestico dell'acqua."
+      },
+      "commercial": {
+        "title": "Serbatoi Commerciali",
+        "description": "Serbatoi blu e unita di filtrazione di media scala per applicazioni commerciali."
+      },
+      "industrial": {
+        "title": "Serbatoi Industriali",
+        "description": "Serbatoi di trattamento industriale su larga scala per il trattamento intensivo dell'acqua."
+      }
+    },
+    "valves": {
+      "title": "Valvole",
+      "clack": {
+        "title": "Valvole Clack",
+        "description": "Configurazioni a 3 pulsanti, 5 pulsanti e valvole di controllo per un controllo preciso del trattamento dell'acqua."
+      },
+      "fleck": {
+        "title": "Valvole Fleck",
+        "description": "Modelli Fleck 2510, 2570, 3150 e Autotrol per un funzionamento affidabile del sistema."
+      }
+    },
+    "minerals": {
+      "title": "Minerali e Media",
+      "activatedCarbon": {
+        "title": "Carbone Attivo Catalitico",
+        "description": "Filtra cloro, cloramina, erbicidi e pesticidi. Elimina sapori e odori sgradevoli."
+      },
+      "anionicResin": {
+        "title": "Resina Anionica",
+        "description": "Riduce solfati, nitrati e cloruri per un'acqua piu pulita."
+      },
+      "cationicResin": {
+        "title": "Resina Cationica",
+        "description": "Scambio ionico polimerico per un efficace addolcimento dell'acqua."
+      },
+      "kdf": {
+        "title": "KDF",
+        "description": "Elimina cloro, ferro, solfuro di idrogeno, carbonato di calcio, magnesio, cromo, batteri, alghe e funghi."
+      },
+      "garnet": {
+        "title": "Granato",
+        "description": "Trattiene i solidi sospesi per la filtrazione di particelle fini."
+      }
+    },
+    "requestQuote": "Richiedi Preventivo",
+    "advice": {
+      "title": "Consulenza Professionale",
+      "description": "I nostri esperti vi aiutano a selezionare l'attrezzatura giusta per ogni progetto, fornendo supporto tecnico continuo e assistenza post-vendita."
+    }
+  },
+  "waterTesting": {
+    "hero": {
+      "title": "Servizi Professionali di Analisi dell'Acqua",
+      "subtitle": "Scopri Cosa Contiene la Tua Acqua — Proteggi la Tua Salute",
+      "description": "Che si tratti di acqua di citta o di pozzo privato, sapere cosa si beve e essenziale.",
+      "cta": "Prenota un'Analisi dell'Acqua Gratuita"
+    },
+    "types": {
+      "title": "Servizi di Analisi",
+      "subtitle": "Analisi completa dell'acqua per ogni parametro",
+      "ph": "Test del pH",
+      "turbidity": "Test di Torbidita",
+      "pesticides": "Pesticidi",
+      "nitrate": "Nitrati e Fosfati",
+      "redox": "Redox",
+      "bacteria": "Batteri",
+      "chloride": "Test dei Cloruri",
+      "dissolvedOxygen": "Ossigeno Disciolto",
+      "conductivity": "Conducibilita Elettrica",
+      "metals": "Metalli",
+      "salinity": "Test di Salinita",
+      "temperature": "Temperatura"
+    },
+    "whyMatters": {
+      "title": "Perche l'Analisi dell'Acqua e Importante",
+      "contaminants": {
+        "title": "Contaminanti Invisibili",
+        "description": "Molti contaminanti sono incolori, insapori e inodori — rendendo i test regolari l'unica protezione affidabile."
+      },
+      "safety": {
+        "title": "Standard di Sicurezza",
+        "description": "I Livelli Massimi di Contaminanti (MCL) sono stabiliti dalle autorita federali e statali per proteggere la salute pubblica."
+      },
+      "quality": {
+        "title": "Rischi per la Qualita dell'Acqua",
+        "description": "I problemi comuni includono infrastrutture obsolete, deflusso agricolo, sversamenti chimici e pozzi privati non regolamentati."
+      }
+    },
+    "comparison": {
+      "title": "Analisi dell'Acqua di Citta vs. Acqua di Pozzo",
+      "city": {
+        "title": "Analisi dell'Acqua di Citta",
+        "description": "I sistemi idrici municipali richiedono un monitoraggio regolare dei sottoprodotti del trattamento e dei contaminanti delle infrastrutture.",
+        "items": {
+          "0": "Parametri fisici, cloro e cloramina",
+          "1": "Metalli tossici, sostanze chimiche delle tubature in plastica",
+          "2": "Trialometani (THM), acidi aloacetici (HAA)",
+          "3": "Particelle radioattive, clorato",
+          "4": "Sottoprodotti della disinfezione e contaminanti emergenti"
+        }
+      },
+      "well": {
+        "title": "Analisi dell'Acqua di Pozzo",
+        "description": "I pozzi privati non sono regolamentati e devono essere testati regolarmente per contaminanti naturali e artificiali.",
+        "items": {
+          "0": "Chimica generale, durezza e alcalinita",
+          "1": "Metalli pesanti, nitrati e nitriti",
+          "2": "Coliformi ed E. coli, sostanze chimiche industriali",
+          "3": "Sottoprodotti della disinfezione, PFAS, petrolio",
+          "4": "Pesticidi, erbicidi e composti organici volatili"
+        }
+      }
+    },
+    "healthImpact": {
+      "title": "L'Impatto sulla Salute",
+      "stats": {
+        "0": {
+          "number": "20-50L",
+          "title": "Fabbisogno Idrico Giornaliero",
+          "description": "Ogni persona ha bisogno di 20-50 litri di acqua pulita al giorno per bere, cucinare e igiene."
+        },
+        "1": {
+          "number": "1.8M+",
+          "title": "Decessi Annuali",
+          "description": "Oltre 1,8 milioni di persone muoiono ogni anno per malattie trasmesse dall'acqua in tutto il mondo."
+        },
+        "2": {
+          "number": "100%",
+          "title": "Impatto sull'Ecosistema",
+          "description": "L'acqua contaminata colpisce esseri umani, piante, animali ed ecosistemi senza eccezioni."
+        }
+      }
+    },
+    "cta": {
+      "title": "Analizziamo la Tua Acqua Oggi",
+      "description": "Ottieni un'analisi professionale dell'acqua e fai il primo passo verso acqua pulita e sicura per la tua casa o azienda.",
+      "button": "Contattaci"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contattaci",
+      "subtitle": "Hai domande sulla qualita dell'acqua o hai bisogno di una consulenza gratuita? Siamo qui per aiutarti."
+    },
+    "name": "Nome Completo",
+    "namePlaceholder": "Inserisci il tuo nome completo",
+    "email": "Indirizzo E-mail",
+    "emailPlaceholder": "Inserisci il tuo indirizzo e-mail",
+    "phone": "Numero di Telefono",
+    "phonePlaceholder": "Inserisci il tuo numero di telefono",
+    "service": "Servizio di Interesse",
+    "servicePlaceholder": "Seleziona un servizio",
+    "serviceOptions": {
+      "waterTreatment": "Sistema di Trattamento dell'Acqua",
+      "waterTesting": "Analisi dell'Acqua",
+      "parts": "Parti e Componenti",
+      "maintenance": "Manutenzione",
+      "other": "Altro"
+    },
+    "message": "Messaggio",
+    "messagePlaceholder": "Come possiamo aiutarti?",
+    "submit": "Invia Messaggio",
+    "sending": "Invio in corso...",
+    "successMessage": "Il tuo messaggio e stato inviato con successo! Ti ricontatteremo presto.",
+    "errorMessage": "Si e verificato un errore. Riprova o contattaci direttamente.",
+    "info": {
+      "title": "Informazioni di Contatto",
+      "phone": {
+        "label": "Telefono"
+      },
+      "email": {
+        "label": "E-mail"
+      },
+      "address": {
+        "label": "Indirizzo"
+      }
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "subtitle": "Trova le risposte alle domande piu comuni sui nostri servizi di trattamento dell'acqua.",
+      "q1": { "question": "Quali servizi offrite?", "answer": "Offriamo installazione, manutenzione, riparazione e aggiornamento di sistemi di trattamento dell'acqua residenziali, commerciali e industriali." },
+      "q2": { "question": "Che tipi di parti offrite?", "answer": "Offriamo filtri, membrane per osmosi inversa, misuratori di portata, valvole, pompe e altro — tutti componenti di alta qualita." },
+      "q3": { "question": "Come faccio a sapere quale sistema e giusto per me?", "answer": "I nostri esperti offrono consulenze personalizzate basate sulla qualita dell'acqua locale, l'uso previsto e il budget." },
+      "q4": { "question": "Qual e il processo di installazione?", "answer": "Forniamo un servizio completo dalla pianificazione del sito all'installazione, configurazione e collaudo dell'attrezzatura." },
+      "q5": { "question": "Offrite servizi di manutenzione?", "answer": "Si, offriamo manutenzione preventiva che include ispezioni, pulizia, test della qualita dell'acqua e sostituzione delle parti." },
+      "q6": { "question": "Qual e la vostra politica di garanzia?", "answer": "Forniamo garanzie su tutte le parti e accessori con copertura di riparazione o sostituzione." },
+      "q7": { "question": "Cosa fare se ho un problema con il mio sistema?", "answer": "Contattaci per assistenza telefonica, servizio in loco o guida alla risoluzione dei problemi." }
+    },
+    "social": {
+      "title": "Seguici sui Social Media"
+    }
+  },
+  "footer": {
+    "tagline": "Soluzioni di acqua pura dal 2017",
+    "quickLinks": "Link Rapidi",
+    "services": "Servizi",
+    "serviceList": {
+      "waterTreatment": "Trattamento dell'Acqua",
+      "waterTesting": "Analisi dell'Acqua",
+      "partsComponents": "Parti e Componenti",
+      "maintenance": "Manutenzione"
+    },
+    "contactTitle": "Contatti",
+    "address": "1205 E Landstreet Rd, Orlando, FL 32824",
+    "rights": "Tutti i diritti riservati."
+  }
+}

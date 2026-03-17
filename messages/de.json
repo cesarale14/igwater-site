@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IG Water Treatment International | Reine Wasserlösungen",
+      "description": "Über 20 Jahre Erfahrung in der Entwicklung, Herstellung und Lieferung maßgeschneiderter Wasseraufbereitungssysteme für private, gewerbliche und industrielle Kunden weltweit."
+    },
+    "about": {
+      "title": "Über Uns | IG Water Treatment International",
+      "description": "Innovation und Führung in der Wasseraufbereitung seit 2017. Erfahren Sie mehr über unsere Geschichte, Mission und unser Engagement für sauberes Wasser."
+    },
+    "services": {
+      "title": "Wasseraufbereitungsdienste | IG Water Treatment International",
+      "description": "Umfassende Wasseraufbereitungslösungen von der Beratung bis zur Umsetzung für private, gewerbliche und industrielle Anforderungen."
+    },
+    "parts": {
+      "title": "Teile und Komponenten | IG Water Treatment International",
+      "description": "Hochwertige Wasseraufbereitungsteile — FRP-Tanks, Steuerventile, Filtrationsmineralien und komplett montierte Anlagen."
+    },
+    "waterTesting": {
+      "title": "Wasseranalysedienste | IG Water Treatment International",
+      "description": "Professionelle Wasseranalyse- und Testdienste. Erfahren Sie, was in Ihrem Wasser steckt, und schützen Sie Ihre Gesundheit."
+    },
+    "contact": {
+      "title": "Kontakt | IG Water Treatment International",
+      "description": "Kontaktieren Sie uns für eine kostenlose Beratung zu Wasserqualitätslösungen. Telefon, E-Mail oder besuchen Sie uns in Orlando, FL."
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "services": "Dienstleistungen",
+    "parts": "Teile",
+    "waterTesting": "Wasseranalyse",
+    "contact": "Kontakt",
+    "getQuote": "Angebot Anfordern"
+  },
+  "home": {
+    "hero": {
+      "tagline": "IG Water Treatment International",
+      "title": "Reines Wasser. Bewährte Lösungen.",
+      "subtitle": "Über 20 Jahre Erfahrung in der Entwicklung, Herstellung und Lieferung maßgeschneiderter Wasseraufbereitungssysteme für private, gewerbliche und industrielle Kunden weltweit.",
+      "ctaPrimary": "Kostenloses Angebot",
+      "ctaSecondary": "Unsere Dienstleistungen",
+      "phone": "+1 407-745-5002"
+    },
+    "stats": {
+      "years": "Jahre Erfahrung",
+      "systems": "Installierte Systeme",
+      "continents": "Bediente Kontinente",
+      "custom": "Maßgeschneiderte Lösungen"
+    },
+    "services": {
+      "tagline": "Unsere Dienstleistungen",
+      "title": "Was Wir Tun",
+      "waterTreatment": {
+        "title": "Wasseraufbereitungssysteme",
+        "description": "Maßgeschneiderte Lösungen für Privat-, Gewerbe- und Industriekunden zur Bereitstellung von reinem, sicherem Wasser."
+      },
+      "waterTesting": {
+        "title": "Wasseranalyse",
+        "description": "Professionelle Analyse und Schadstofferkennung, damit Ihr Wasser die höchsten Sicherheitsstandards erfüllt."
+      },
+      "partsService": {
+        "title": "Teile und Komponenten",
+        "description": "FRP-Tanks, Ventile, Mineralien und Filtermedien — hochwertige Komponenten zu außergewöhnlichem Preis-Leistungs-Verhältnis."
+      }
+    },
+    "products": {
+      "tagline": "Unser Katalog",
+      "title": "Unsere Produkte",
+      "viewAll": "Alle Anzeigen",
+      "frpTanks": {
+        "title": "FRP-Filtertanks",
+        "description": "Druckbehälter für Privat-, Gewerbe- und Industrieanwendungen"
+      },
+      "reverseOsmosis": {
+        "title": "Umkehrosmoseanlagen",
+        "description": "Industrielle und häusliche RO-Wasserreinigung"
+      },
+      "ozoneGenerators": {
+        "title": "Ozongeneratoren",
+        "description": "Chemikalienfreie Hochleistungsdesinfektion"
+      },
+      "controlValves": {
+        "title": "Steuerventile",
+        "description": "Präzisionsventile von Clack und Fleck"
+      },
+      "filtrationMinerals": {
+        "title": "Filtrationsmineralien",
+        "description": "Aktivkohle, Harze, KDF, Granat"
+      }
+    },
+    "whyUs": {
+      "tagline": "Unsere Vorteile",
+      "title": "Warum Uns Wählen",
+      "features": {
+        "0": {
+          "title": "Eigene Fertigung",
+          "description": "Wir entwickeln unsere eigenen Produkte im Haus und gewährleisten so die höchsten Qualitätsstandards."
+        },
+        "1": {
+          "title": "Internationale Reichweite",
+          "description": "Lösungen von Lateinamerika bis Afrika — weltweit vertraut."
+        },
+        "2": {
+          "title": "Brunnenwasser-Experten",
+          "description": "Spezialisiert auf Mineralentfernung und Schadstoffneutralisierung für Brunnenwassersysteme."
+        },
+        "3": {
+          "title": "Maßgeschneiderte Technik",
+          "description": "Jedes System wird auf Ihre spezifischen Wasserbedürfnisse zugeschnitten — keine Einheitslösung."
+        }
+      }
+    },
+    "testimonial": {
+      "quote": "Seit drei Jahrzehnten bin ich in die Welt des Wassers eingetaucht, erforsche Lösungen, überschreite Grenzen und beeinflusse maßgeblich die Qualität des Wassers, das wir konsumieren.",
+      "author": "Iván Danilo García",
+      "role": "Gründer"
+    },
+    "cta": {
+      "title": "Bereit, Ihre Wasserqualität zu Verbessern?",
+      "subtitle": "Erhalten Sie eine kostenlose Beratung und eine maßgeschneiderte Lösung für Ihre Wasseraufbereitungsbedürfnisse.",
+      "button": "Angebot Anfordern"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Über IG Water Treatment International",
+      "subtitle": "Innovation und Führung in der Wasseraufbereitung Seit 2017"
+    },
+    "story": {
+      "tagline": "Wer Wir Sind",
+      "title": "Unsere Geschichte",
+      "paragraph1": "Im Jahr 2017 von Iván García gegründet, entstand IG Water Treatment International aus drei Jahrzehnten Leidenschaft für Wasseraufbereitungslösungen.",
+      "paragraph2": "Mit modernster Technologie und vertikal integrierten Abläufen — von der Planung über die Fertigung bis zum Vertrieb — liefern wir umfassende Wasseraufbereitungslösungen, die Leben verändern.",
+      "paragraph3": "Unser Engagement für Innovation und Qualität hat uns als vertrauenswürdigen Partner für private, gewerbliche und industrielle Kunden weltweit positioniert."
+    },
+    "pillars": {
+      "tagline": "Unsere Werte",
+      "title": "Was Uns Ausmacht",
+      "0": {
+        "title": "Eigene Produktion",
+        "description": "Wir gehen über den Vertrieb hinaus — wir entwickeln unsere eigenen Wasseraufbereitungsprodukte. Die interne Steuerung des gesamten Produktionsprozesses gewährleistet höchste Standards in Qualität, Individualisierung und Innovation."
+      },
+      "1": {
+        "title": "Internationale Reichweite",
+        "description": "Unsere Wirkung geht über Orlando hinaus. Wir haben Wasseraufbereitungslösungen rund um den Globus geliefert — von Lateinamerika bis Afrika — und helfen Gemeinden, Zugang zu zuverlässigem, sauberem Wasser zu erhalten."
+      },
+      "2": {
+        "title": "Führend bei Brunnenwasser",
+        "description": "Wir lösen Probleme wie Mineralablagerungen, Schadstoffbeseitigung und Systemoptimierung. Unser spezialisiertes Team stellt sicher, dass jeder Brunnen sauberes, sicheres und zuverlässiges Wasser liefert."
+      },
+      "3": {
+        "title": "Individuelle Lösungen",
+        "description": "Jedes Zuhause und jedes Unternehmen hat eigene Bedürfnisse. Ob Wasserenthärtung, Entkalkung von Rohrleitungen oder die Entwicklung eines umfassenden Reinigungssystems — wir passen alles an."
+      }
+    },
+    "mission": {
+      "tagline": "Unsere Mission",
+      "title": "Unsere Mission",
+      "statement": "Wir behandeln nicht nur Wasser — wir verändern Leben. Unser Engagement gilt nachhaltigen, effizienten und vertrauenswürdigen Wasseraufbereitungslösungen."
+    },
+    "founder": {
+      "title": "Gründer und CEO",
+      "quote": "Wenn Sie an Wasser denken, denken Sie an IG Water Treatment International. Wir verkaufen nicht nur Wasseraufbereitungssysteme — wir bieten Sicherheit.",
+      "initials": "IG",
+      "name": "Iván Danilo García",
+      "role": "Gründer und CEO"
+    },
+    "cta": {
+      "title": "Bereit, Ihre Wasserqualität zu Verbessern?",
+      "subtitle": "Erhalten Sie eine kostenlose Beratung und eine maßgeschneiderte Lösung für Ihre Wasseraufbereitungsbedürfnisse.",
+      "button": "Angebot Anfordern"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Umfassende Wasseraufbereitungslösungen",
+      "subtitle": "Von der Erstbewertung bis zur vollständigen Systemimplementierung — maßgeschneidert für private, gewerbliche und industrielle Anforderungen."
+    },
+    "consulting": {
+      "title": "Strategische Beratung",
+      "description": "Wir bieten strategische Beratung für Trinkwasser- und Abwasseraufbereitungsprojekte. Von der Erstbewertung bis zur vollständigen Umsetzung gewährleisten unsere maßgeschneiderten Lösungen Leistung, Sicherheit und die Einhaltung gesetzlicher Vorschriften."
+    },
+    "technology": {
+      "title": "Unsere Technologien",
+      "subtitle": "Fortschrittliche Wasseraufbereitungstechnologien für jede Anwendung",
+      "ozone": { "title": "Ozonanlagen", "description": "Leistungsstarke umweltfreundliche Desinfektion" },
+      "mixedBed": { "title": "Mischbettfilter", "description": "Hocheffiziente Reinigung" },
+      "softening": { "title": "Enthärtungsharze", "description": "Maßgeschneiderte Lösungen für spezifische Wasserprofile" },
+      "valves": { "title": "Filterventile", "description": "Langlebige Hochleistungskomponenten" },
+      "ro": { "title": "Umkehrosmose-Einheiten", "description": "Präzisionsfiltration für sauberes Wasser" },
+      "uv": { "title": "UV-Lampen", "description": "Wirksame Ultraviolett-Desinfektion" },
+      "chlorinators": { "title": "Chlordosierer", "description": "Zuverlässige Chlordosiersysteme" },
+      "specialized": { "title": "Spezialanlagen", "description": "Maßgeschneidert für besondere Herausforderungen" },
+      "frp": { "title": "FRP- und Spezialtanks", "description": "Faserverstärkte Speicher- und Aufbereitungsbehälter" },
+      "pumps": { "title": "Wasserpumpen und Ausrüstung", "description": "Unverzichtbare Ausrüstung für jede Anwendung" }
+    },
+    "sustainability": {
+      "title": "Engagement für Nachhaltigkeit",
+      "description": "Umweltschutz steht im Mittelpunkt unseres Handelns. Wir setzen uns für verantwortungsvolle, nachhaltige Praktiken ein, die die Wassersicherheit gewährleisten und gleichzeitig das ökologische Gleichgewicht bewahren."
+    },
+    "support": {
+      "title": "Engagierter Support",
+      "description": "Von der Produktauswahl bis zur Nachinstallation bieten wir in jedem Schritt einen persönlichen Service. Unser Team bietet fortlaufende technische Unterstützung und eine reaktionsschnelle Kommunikation, damit Ihre Systeme optimal funktionieren."
+    },
+    "cta": {
+      "title": "Benötigen Sie eine Maßgeschneiderte Wasseraufbereitungslösung?",
+      "button": "Kontaktieren Sie Uns Heute"
+    }
+  },
+  "parts": {
+    "hero": {
+      "title": "Teile und Komponenten",
+      "subtitle": "Hochwertige Teile zu außergewöhnlichem Preis-Leistungs-Verhältnis — Filter, Tanks, Ventile, Mineralien und komplett montierte Anlagen."
+    },
+    "tanks": {
+      "title": "Tanks",
+      "residential": {
+        "title": "Wohnbereich-Tanks",
+        "description": "Schwarze Tanks, Wohnbereichsausrüstung und RO-Systeme für die häusliche Wasseraufbereitung."
+      },
+      "commercial": {
+        "title": "Gewerbliche Tanks",
+        "description": "Blaue Tanks und mittelgroße Filtrationseinheiten für gewerbliche Anwendungen."
+      },
+      "industrial": {
+        "title": "Industrietanks",
+        "description": "Großtechnische Industrieaufbereitungstanks für die Schwerlastwasseraufbereitung."
+      }
+    },
+    "valves": {
+      "title": "Ventile",
+      "clack": {
+        "title": "Clack-Ventile",
+        "description": "3-Tasten-, 5-Tasten- und Steuerventilkonfigurationen für präzise Wasseraufbereitungssteuerung."
+      },
+      "fleck": {
+        "title": "Fleck-Ventile",
+        "description": "Fleck 2510, 2570, 3150 und Autotrol-Modelle für zuverlässigen Systembetrieb."
+      }
+    },
+    "minerals": {
+      "title": "Mineralien und Medien",
+      "activatedCarbon": {
+        "title": "Katalytische Aktivkohle",
+        "description": "Filtert Chlor, Chloramin, Herbizide und Pestizide. Beseitigt unangenehme Geschmäcker und Gerüche."
+      },
+      "anionicResin": {
+        "title": "Anionenharz",
+        "description": "Reduziert Sulfate, Nitrate und Chloride für saubereres Wasser."
+      },
+      "cationicResin": {
+        "title": "Kationenharz",
+        "description": "Polymerer Ionenaustausch für effektive Wasserenthärtung."
+      },
+      "kdf": {
+        "title": "KDF",
+        "description": "Beseitigt Chlor, Eisen, Schwefelwasserstoff, Calciumcarbonat, Magnesium, Chrom, Bakterien, Algen und Pilze."
+      },
+      "garnet": {
+        "title": "Granat",
+        "description": "Hält Schwebstoffe zurück für die Feinpartikelfiltration."
+      }
+    },
+    "requestQuote": "Angebot Anfordern",
+    "advice": {
+      "title": "Professionelle Beratung",
+      "description": "Unsere Experten helfen Ihnen bei der Auswahl der richtigen Ausrüstung für jedes Projekt und bieten kontinuierlichen technischen Support und After-Sales-Service."
+    }
+  },
+  "waterTesting": {
+    "hero": {
+      "title": "Professionelle Wasseranalysedienste",
+      "subtitle": "Wissen Sie, Was in Ihrem Wasser Ist — Schützen Sie Ihre Gesundheit",
+      "description": "Ob Stadtwasser oder privater Brunnen — zu wissen, was Sie trinken, ist unerlässlich.",
+      "cta": "Kostenlose Wasseranalyse Vereinbaren"
+    },
+    "types": {
+      "title": "Analysedienste",
+      "subtitle": "Umfassende Wasseranalyse für jeden Parameter",
+      "ph": "pH-Test",
+      "turbidity": "Trübungstest",
+      "pesticides": "Pestizide",
+      "nitrate": "Nitrate und Phosphate",
+      "redox": "Redox",
+      "bacteria": "Bakterien",
+      "chloride": "Chloridtest",
+      "dissolvedOxygen": "Gelöster Sauerstoff",
+      "conductivity": "Elektrische Leitfähigkeit",
+      "metals": "Metalle",
+      "salinity": "Salzgehalttest",
+      "temperature": "Temperatur"
+    },
+    "whyMatters": {
+      "title": "Warum Wasseranalyse Wichtig Ist",
+      "contaminants": {
+        "title": "Unsichtbare Schadstoffe",
+        "description": "Viele Schadstoffe sind farblos, geschmacklos und geruchlos — regelmäßige Tests sind der einzige zuverlässige Schutz."
+      },
+      "safety": {
+        "title": "Sicherheitsstandards",
+        "description": "Maximale Schadstoffkonzentrationen (MCL) werden von Bundes- und Landesbehörden zum Schutz der öffentlichen Gesundheit festgelegt."
+      },
+      "quality": {
+        "title": "Wasserqualitätsrisiken",
+        "description": "Häufige Probleme sind alternde Infrastruktur, landwirtschaftliche Abflüsse, Chemieunfälle und unregulierte private Brunnen."
+      }
+    },
+    "comparison": {
+      "title": "Stadtwasser- vs. Brunnenwasseranalyse",
+      "city": {
+        "title": "Stadtwasseranalyse",
+        "description": "Kommunale Wassersysteme erfordern regelmäßige Überwachung von Aufbereitungsnebenprodukten und Infrastrukturkontaminanten.",
+        "items": {
+          "0": "Physikalische Parameter, Chlor und Chloramin",
+          "1": "Giftige Metalle, Chemikalien aus Kunststoffrohren",
+          "2": "Trihalogenmethane (THM), Halogenessigsäuren (HAA)",
+          "3": "Radioaktive Partikel, Chlorat",
+          "4": "Desinfektionsnebenprodukte und neu auftretende Kontaminanten"
+        }
+      },
+      "well": {
+        "title": "Brunnenwasseranalyse",
+        "description": "Private Brunnen sind nicht reguliert und müssen regelmäßig auf natürliche und künstliche Schadstoffe getestet werden.",
+        "items": {
+          "0": "Allgemeine Chemie, Härte und Alkalität",
+          "1": "Schwermetalle, Nitrate und Nitrite",
+          "2": "Coliforme und E. coli, Industriechemikalien",
+          "3": "Desinfektionsnebenprodukte, PFAS, Erdöl",
+          "4": "Pestizide, Herbizide und flüchtige organische Verbindungen"
+        }
+      }
+    },
+    "healthImpact": {
+      "title": "Die Gesundheitlichen Auswirkungen",
+      "stats": {
+        "0": {
+          "number": "20-50L",
+          "title": "Täglicher Wasserbedarf",
+          "description": "Jeder Mensch benötigt täglich 20–50 Liter sauberes Wasser zum Trinken, Kochen und für die Hygiene."
+        },
+        "1": {
+          "number": "1.8M+",
+          "title": "Jährliche Todesfälle",
+          "description": "Über 1,8 Millionen Menschen sterben jährlich weltweit an wasserbedingten Erkrankungen."
+        },
+        "2": {
+          "number": "100%",
+          "title": "Auswirkungen auf Ökosysteme",
+          "description": "Verunreinigtes Wasser beeinträchtigt Menschen, Pflanzen, Tiere und Ökosysteme ohne Ausnahme."
+        }
+      }
+    },
+    "cta": {
+      "title": "Lassen Sie Ihr Wasser Heute Testen",
+      "description": "Erhalten Sie eine professionelle Wasseranalyse und machen Sie den ersten Schritt zu sauberem, sicherem Wasser für Ihr Zuhause oder Unternehmen.",
+      "button": "Kontaktieren Sie Uns"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Kontaktieren Sie Uns",
+      "subtitle": "Haben Sie Fragen zur Wasserqualität oder benötigen Sie eine kostenlose Beratung? Wir sind für Sie da."
+    },
+    "name": "Vollständiger Name",
+    "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein",
+    "service": "Gewünschter Service",
+    "servicePlaceholder": "Wählen Sie einen Service",
+    "serviceOptions": {
+      "waterTreatment": "Wasseraufbereitungsanlage",
+      "waterTesting": "Wasseranalyse",
+      "parts": "Teile und Komponenten",
+      "maintenance": "Wartung",
+      "other": "Sonstiges"
+    },
+    "message": "Nachricht",
+    "messagePlaceholder": "Wie können wir Ihnen helfen?",
+    "submit": "Nachricht Senden",
+    "sending": "Wird gesendet...",
+    "successMessage": "Ihre Nachricht wurde erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen.",
+    "errorMessage": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.",
+    "info": {
+      "title": "Kontaktinformationen",
+      "phone": {
+        "label": "Telefon"
+      },
+      "email": {
+        "label": "E-Mail"
+      },
+      "address": {
+        "label": "Adresse"
+      }
+    },
+    "faq": {
+      "title": "Häufig Gestellte Fragen",
+      "subtitle": "Finden Sie Antworten auf die häufigsten Fragen zu unseren Wasseraufbereitungsdiensten.",
+      "q1": { "question": "Welche Dienstleistungen bieten Sie an?", "answer": "Wir bieten Installation, Wartung, Reparatur und Aufrüstung von Wasseraufbereitungssystemen für Privathaushalte, Gewerbe und Industrie." },
+      "q2": { "question": "Welche Arten von Teilen bieten Sie an?", "answer": "Wir bieten Filter, RO-Membranen, Durchflussmesser, Ventile, Pumpen und mehr — alles hochwertige Komponenten." },
+      "q3": { "question": "Wie finde ich heraus, welches System das richtige für mich ist?", "answer": "Unsere Experten bieten eine persönliche Beratung basierend auf Ihrer lokalen Wasserqualität, dem Verwendungszweck und Ihrem Budget." },
+      "q4": { "question": "Wie läuft die Installation ab?", "answer": "Wir bieten einen Komplettservice von der Standortplanung bis zur Installation, Konfiguration und Prüfung der Anlage." },
+      "q5": { "question": "Bieten Sie Wartungsdienste an?", "answer": "Ja, wir bieten vorbeugende Wartung einschließlich Inspektionen, Reinigung, Wasserqualitätsprüfungen und Teileaustausch." },
+      "q6": { "question": "Wie lautet Ihre Garantiepolitik?", "answer": "Wir gewähren Garantien auf alle Teile und Zubehör mit Reparatur- oder Austauschdeckung." },
+      "q7": { "question": "Was tun bei einem Problem mit meinem System?", "answer": "Kontaktieren Sie uns für telefonischen Support, Vor-Ort-Service oder Hilfe bei der Fehlerbehebung." }
+    },
+    "social": {
+      "title": "Folgen Sie Uns in den Sozialen Medien"
+    }
+  },
+  "footer": {
+    "tagline": "Reine Wasserlösungen seit 2017",
+    "quickLinks": "Schnellzugriff",
+    "services": "Dienstleistungen",
+    "serviceList": {
+      "waterTreatment": "Wasseraufbereitung",
+      "waterTesting": "Wasseranalyse",
+      "partsComponents": "Teile und Komponenten",
+      "maintenance": "Wartung"
+    },
+    "contactTitle": "Kontakt",
+    "address": "1205 E Landstreet Rd, Orlando, FL 32824",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "home": {
+      "title": "IG Water Treatment International | 纯净水解决方案",
+      "description": "超过20年为全球住宅、商业和工业客户设计、制造和交付定制水处理系统的经验。"
+    },
+    "about": {
+      "title": "关于我们 | IG Water Treatment International",
+      "description": "自2017年以来，在水处理领域持续创新与引领。了解我们的故事、使命和对洁净水的承诺。"
+    },
+    "services": {
+      "title": "水处理服务 | IG Water Treatment International",
+      "description": "从咨询到实施的全面水处理解决方案，满足住宅、商业和工业需求。"
+    },
+    "parts": {
+      "title": "零部件 | IG Water Treatment International",
+      "description": "高品质水处理零部件——FRP储罐、控制阀、过滤矿物和完整组装设备。"
+    },
+    "waterTesting": {
+      "title": "水质检测服务 | IG Water Treatment International",
+      "description": "专业的水质检测与分析服务。了解您的水质状况，保护您的健康。"
+    },
+    "contact": {
+      "title": "联系我们 | IG Water Treatment International",
+      "description": "联系我们获取免费的水质解决方案咨询。电话、电子邮件或亲临佛罗里达州奥兰多。"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "parts": "零部件",
+    "waterTesting": "水质检测",
+    "contact": "联系我们",
+    "getQuote": "获取报价"
+  },
+  "home": {
+    "hero": {
+      "tagline": "IG Water Treatment International",
+      "title": "纯净水源，可信赖的解决方案。",
+      "subtitle": "超过20年为全球住宅、商业和工业客户设计、制造和交付定制水处理系统的经验。",
+      "ctaPrimary": "获取免费报价",
+      "ctaSecondary": "我们的服务",
+      "phone": "+1 407-745-5002"
+    },
+    "stats": {
+      "years": "年行业经验",
+      "systems": "已安装系统",
+      "continents": "服务大洲",
+      "custom": "定制方案"
+    },
+    "services": {
+      "tagline": "我们的服务",
+      "title": "我们的业务",
+      "waterTreatment": {
+        "title": "水处理系统",
+        "description": "为住宅、商业和工业客户定制解决方案，提供纯净、安全的水源。"
+      },
+      "waterTesting": {
+        "title": "水质检测",
+        "description": "专业分析与污染物检测，确保您的水质达到最高安全标准。"
+      },
+      "partsService": {
+        "title": "零部件",
+        "description": "FRP储罐、阀门、矿物和过滤介质——高品质组件，超值之选。"
+      }
+    },
+    "products": {
+      "tagline": "产品目录",
+      "title": "我们的产品",
+      "viewAll": "查看全部",
+      "frpTanks": {
+        "title": "FRP过滤罐",
+        "description": "住宅、商业和工业用压力容器"
+      },
+      "reverseOsmosis": {
+        "title": "反渗透系统",
+        "description": "工业和家用反渗透水净化设备"
+      },
+      "ozoneGenerators": {
+        "title": "臭氧发生器",
+        "description": "无化学品高效消毒"
+      },
+      "controlValves": {
+        "title": "控制阀",
+        "description": "Clack和Fleck精密阀门"
+      },
+      "filtrationMinerals": {
+        "title": "过滤矿物",
+        "description": "活性炭、树脂、KDF、石榴石"
+      }
+    },
+    "whyUs": {
+      "tagline": "我们的优势",
+      "title": "为什么选择我们",
+      "features": {
+        "0": {
+          "title": "自主制造",
+          "description": "我们自主研发产品，确保最高质量标准。"
+        },
+        "1": {
+          "title": "国际影响力",
+          "description": "从拉丁美洲到非洲，解决方案遍布全球——值得信赖。"
+        },
+        "2": {
+          "title": "井水处理专家",
+          "description": "专注于井水系统的矿物去除和污染物中和处理。"
+        },
+        "3": {
+          "title": "定制工程",
+          "description": "每个系统都根据您的特定水质需求量身打造——绝非千篇一律。"
+        }
+      }
+    },
+    "testimonial": {
+      "quote": "三十年来，我一直深耕水处理领域，探索解决方案、突破边界，并对我们所饮用水的品质产生了深远影响。",
+      "author": "Iván Danilo García",
+      "role": "创始人"
+    },
+    "cta": {
+      "title": "准备好改善您的水质了吗？",
+      "subtitle": "获取免费咨询和定制水处理解决方案。",
+      "button": "获取报价"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于IG Water Treatment International",
+      "subtitle": "自2017年以来，在水处理领域持续创新与引领"
+    },
+    "story": {
+      "tagline": "关于我们",
+      "title": "我们的故事",
+      "paragraph1": "IG Water Treatment International由Iván García于2017年创立，源于三十年对水处理解决方案的热忱。",
+      "paragraph2": "凭借尖端技术和垂直整合的运营模式——从设计到制造再到分销——我们提供改变生活的全面水处理解决方案。",
+      "paragraph3": "我们对创新和品质的承诺使我们成为全球住宅、商业和工业客户值得信赖的合作伙伴。"
+    },
+    "pillars": {
+      "tagline": "核心价值",
+      "title": "我们的核心优势",
+      "0": {
+        "title": "自主生产",
+        "description": "我们不仅仅是分销商——我们自主研发水处理产品。全程内部管控生产流程，确保在质量、定制化和创新方面达到最高标准。"
+      },
+      "1": {
+        "title": "国际影响力",
+        "description": "我们的影响力远超奥兰多。我们已在全球范围内交付水处理解决方案——从拉丁美洲到非洲——帮助各地社区获得可靠的清洁用水。"
+      },
+      "2": {
+        "title": "井水处理领导者",
+        "description": "我们解决矿物积聚、污染物去除和系统优化等问题。我们的专业团队确保每口井都能提供清洁、安全、可靠的水源。"
+      },
+      "3": {
+        "title": "定制解决方案",
+        "description": "每个家庭和企业都有独特的需求。无论是软化硬水、管道除垢，还是开发综合净化系统——我们都能量身定制。"
+      }
+    },
+    "mission": {
+      "tagline": "我们的使命",
+      "title": "我们的使命",
+      "statement": "我们不仅处理水——我们改变生活。我们致力于提供可持续、高效和值得信赖的水处理解决方案。"
+    },
+    "founder": {
+      "title": "创始人兼首席执行官",
+      "quote": "当您想到水，请想到IG Water Treatment International。我们不仅仅销售水处理系统——我们为您提供安心保障。",
+      "initials": "IG",
+      "name": "Iván Danilo García",
+      "role": "创始人兼首席执行官"
+    },
+    "cta": {
+      "title": "准备好改善您的水质了吗？",
+      "subtitle": "获取免费咨询和定制水处理解决方案。",
+      "button": "获取报价"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "全面的水处理解决方案",
+      "subtitle": "从初始评估到完整系统实施——为住宅、商业和工业需求量身定制。"
+    },
+    "consulting": {
+      "title": "战略咨询",
+      "description": "我们为饮用水和废水处理项目提供战略咨询。从初始评估到完整系统实施，我们的定制解决方案确保性能、安全和法规合规。"
+    },
+    "technology": {
+      "title": "我们的技术",
+      "subtitle": "适用于各种应用场景的先进水处理技术",
+      "ozone": { "title": "臭氧系统", "description": "强效环保消毒" },
+      "mixedBed": { "title": "混合床过滤器", "description": "高效净化" },
+      "softening": { "title": "软化树脂", "description": "针对特定水质的定制方案" },
+      "valves": { "title": "过滤阀门", "description": "耐用的高性能组件" },
+      "ro": { "title": "反渗透装置", "description": "精密过滤，提供清洁水源" },
+      "uv": { "title": "紫外线灯", "description": "有效的紫外线消毒" },
+      "chlorinators": { "title": "加氯器", "description": "可靠的氯投加系统" },
+      "specialized": { "title": "专用系统", "description": "为独特挑战量身设计" },
+      "frp": { "title": "FRP及特种储罐", "description": "纤维增强储存和处理设备" },
+      "pumps": { "title": "水泵及设备", "description": "各种应用场景的必备设备" }
+    },
+    "sustainability": {
+      "title": "可持续发展承诺",
+      "description": "环境保护是我们一切工作的核心。我们致力于负责任的可持续实践，在确保水安全的同时维护生态平衡。"
+    },
+    "support": {
+      "title": "专属支持",
+      "description": "从产品选择到安装后服务，我们在每一步都提供个性化服务。我们的团队提供持续的技术支持和及时的沟通，确保您的系统以最佳状态运行。"
+    },
+    "cta": {
+      "title": "需要定制水处理解决方案？",
+      "button": "立即联系我们"
+    }
+  },
+  "parts": {
+    "hero": {
+      "title": "零部件",
+      "subtitle": "高品质零部件，超值之选——过滤器、储罐、阀门、矿物和完整组装设备。"
+    },
+    "tanks": {
+      "title": "储罐",
+      "residential": {
+        "title": "家用储罐",
+        "description": "黑色储罐、家用设备和家庭水处理用反渗透系统。"
+      },
+      "commercial": {
+        "title": "商用储罐",
+        "description": "蓝色储罐和中型过滤设备，适用于商业应用。"
+      },
+      "industrial": {
+        "title": "工业储罐",
+        "description": "大型工业处理储罐，用于重型水处理加工。"
+      }
+    },
+    "valves": {
+      "title": "阀门",
+      "clack": {
+        "title": "Clack阀门",
+        "description": "3键、5键和控制阀配置，实现精确的水处理控制。"
+      },
+      "fleck": {
+        "title": "Fleck阀门",
+        "description": "Fleck 2510、2570、3150和Autotrol型号，确保系统可靠运行。"
+      }
+    },
+    "minerals": {
+      "title": "矿物及介质",
+      "activatedCarbon": {
+        "title": "催化活性炭",
+        "description": "过滤氯、氯胺、除草剂和杀虫剂，消除不良味道和气味。"
+      },
+      "anionicResin": {
+        "title": "阴离子树脂",
+        "description": "减少硫酸盐、硝酸盐和氯化物，使水更洁净。"
+      },
+      "cationicResin": {
+        "title": "阳离子树脂",
+        "description": "聚合物离子交换，实现有效的水质软化。"
+      },
+      "kdf": {
+        "title": "KDF",
+        "description": "去除氯、铁、硫化氢、碳酸钙、镁、铬、细菌、藻类和真菌。"
+      },
+      "garnet": {
+        "title": "石榴石",
+        "description": "截留悬浮固体，实现细颗粒过滤。"
+      }
+    },
+    "requestQuote": "申请报价",
+    "advice": {
+      "title": "专业建议",
+      "description": "我们的专家帮助您为每个项目选择合适的设备，提供持续的技术支持和售后服务。"
+    }
+  },
+  "waterTesting": {
+    "hero": {
+      "title": "专业水质检测服务",
+      "subtitle": "了解您的水质——保护您的健康",
+      "description": "无论是市政供水还是私人水井，了解您所饮用的水质至关重要。",
+      "cta": "预约免费水质检测"
+    },
+    "types": {
+      "title": "检测服务",
+      "subtitle": "全面的水质分析，覆盖每项参数",
+      "ph": "pH值检测",
+      "turbidity": "浊度检测",
+      "pesticides": "农药检测",
+      "nitrate": "硝酸盐与磷酸盐",
+      "redox": "氧化还原电位",
+      "bacteria": "细菌检测",
+      "chloride": "氯化物检测",
+      "dissolvedOxygen": "溶解氧",
+      "conductivity": "电导率",
+      "metals": "金属检测",
+      "salinity": "盐度检测",
+      "temperature": "温度"
+    },
+    "whyMatters": {
+      "title": "为什么水质检测至关重要",
+      "contaminants": {
+        "title": "看不见的污染物",
+        "description": "许多污染物无色、无味、无嗅——定期检测是唯一可靠的保障措施。"
+      },
+      "safety": {
+        "title": "安全标准",
+        "description": "最大污染物浓度（MCL）由联邦和州级主管机构制定，以保护公众健康。"
+      },
+      "quality": {
+        "title": "水质风险",
+        "description": "常见问题包括老化的基础设施、农业径流、化学品泄漏以及未受监管的私人水井。"
+      }
+    },
+    "comparison": {
+      "title": "市政供水与井水检测对比",
+      "city": {
+        "title": "市政供水检测",
+        "description": "市政供水系统需要定期监测处理副产物和基础设施污染物。",
+        "items": {
+          "0": "物理参数、氯和氯胺",
+          "1": "有毒金属、塑料管道化学物质",
+          "2": "三卤甲烷（THMs）、卤乙酸（HAAs）",
+          "3": "放射性粒子、氯酸盐",
+          "4": "消毒副产物和新兴污染物"
+        }
+      },
+      "well": {
+        "title": "井水检测",
+        "description": "私人水井不受监管，必须定期检测天然和人为污染物。",
+        "items": {
+          "0": "一般化学指标、硬度和碱度",
+          "1": "重金属、硝酸盐和亚硝酸盐",
+          "2": "大肠杆菌群和大肠杆菌、工业化学品",
+          "3": "消毒副产物、PFAS、石油类",
+          "4": "农药、除草剂和挥发性有机化合物"
+        }
+      }
+    },
+    "healthImpact": {
+      "title": "对健康的影响",
+      "stats": {
+        "0": {
+          "number": "20-50L",
+          "title": "每日用水需求",
+          "description": "每人每天需要20至50升清洁水用于饮用、烹饪和卫生。"
+        },
+        "1": {
+          "number": "1.8M+",
+          "title": "年死亡人数",
+          "description": "全球每年超过180万人死于水传播疾病。"
+        },
+        "2": {
+          "number": "100%",
+          "title": "生态系统影响",
+          "description": "受污染的水无一例外地影响人类、植物、动物和生态系统。"
+        }
+      }
+    },
+    "cta": {
+      "title": "立即检测您的水质",
+      "description": "获取专业水质分析，迈出迈向清洁安全用水的第一步。",
+      "button": "联系我们"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "对水质有疑问或需要免费咨询？我们随时为您服务。"
+    },
+    "name": "姓名",
+    "namePlaceholder": "请输入您的姓名",
+    "email": "电子邮箱",
+    "emailPlaceholder": "请输入您的电子邮箱",
+    "phone": "电话号码",
+    "phonePlaceholder": "请输入您的电话号码",
+    "service": "感兴趣的服务",
+    "servicePlaceholder": "请选择一项服务",
+    "serviceOptions": {
+      "waterTreatment": "水处理系统",
+      "waterTesting": "水质检测",
+      "parts": "零部件",
+      "maintenance": "维护保养",
+      "other": "其他"
+    },
+    "message": "留言",
+    "messagePlaceholder": "我们能为您做什么？",
+    "submit": "发送消息",
+    "sending": "发送中...",
+    "successMessage": "您的消息已成功发送！我们将尽快与您联系。",
+    "errorMessage": "出现了问题，请重试或直接联系我们。",
+    "info": {
+      "title": "联系方式",
+      "phone": {
+        "label": "电话"
+      },
+      "email": {
+        "label": "电子邮箱"
+      },
+      "address": {
+        "label": "地址"
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "subtitle": "查找有关我们水处理服务的常见问题解答。",
+      "q1": { "question": "你们提供哪些服务？", "answer": "我们提供住宅、商业和工业水处理系统的安装、维护、维修和升级服务。" },
+      "q2": { "question": "你们提供哪些类型的零部件？", "answer": "我们提供过滤器、反渗透膜、流量计、阀门、水泵等——全部为高品质组件。" },
+      "q3": { "question": "如何知道哪种系统适合我？", "answer": "我们的专家根据您当地的水质、使用需求和预算提供个性化咨询。" },
+      "q4": { "question": "安装流程是怎样的？", "answer": "我们提供从场地规划到设备安装、配置和测试的全程服务。" },
+      "q5": { "question": "你们提供维护服务吗？", "answer": "是的，我们提供预防性维护服务，包括检查、清洁、水质测试和零部件更换。" },
+      "q6": { "question": "你们的保修政策是什么？", "answer": "我们为所有零部件和配件提供保修，涵盖维修或更换服务。" },
+      "q7": { "question": "如果系统出现问题怎么办？", "answer": "联系我们获取电话支持、现场服务或故障排除指导。" }
+    },
+    "social": {
+      "title": "关注我们的社交媒体"
+    }
+  },
+  "footer": {
+    "tagline": "自2017年以来的纯净水解决方案",
+    "quickLinks": "快速链接",
+    "services": "服务",
+    "serviceList": {
+      "waterTreatment": "水处理",
+      "waterTesting": "水质检测",
+      "partsComponents": "零部件",
+      "maintenance": "维护保养"
+    },
+    "contactTitle": "联系我们",
+    "address": "1205 E Landstreet Rd, Orlando, FL 32824",
+    "rights": "保留所有权利。"
+  }
+}
