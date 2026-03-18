@@ -88,52 +88,21 @@ export default function HomePage() {
       {/* ─── HERO ─── */}
       <section
         ref={heroRef}
-        className="relative min-h-[92vh] flex items-center justify-center overflow-hidden"
-        style={{ backgroundColor: '#0F172A' }}
+        className="relative min-h-[92vh] flex items-center justify-center overflow-hidden bg-dark-navy"
       >
-        {/* Water ripple pseudo-effect layers */}
-        <div className="absolute inset-0 pointer-events-none">
-          <div
-            className="absolute w-[600px] h-[600px] rounded-full opacity-[0.07]"
-            style={{
-              top: '20%',
-              left: '10%',
-              background:
-                'radial-gradient(circle, #0EA5E9 0%, transparent 70%)',
-              animation: 'ripple 8s ease-in-out infinite',
-            }}
-          />
-          <div
-            className="absolute w-[800px] h-[800px] rounded-full opacity-[0.05]"
-            style={{
-              bottom: '-10%',
-              right: '-5%',
-              background:
-                'radial-gradient(circle, #14B8A6 0%, transparent 70%)',
-              animation: 'ripple 10s ease-in-out infinite 2s',
-            }}
-          />
-          <div
-            className="absolute w-[400px] h-[400px] rounded-full opacity-[0.06]"
-            style={{
-              top: '50%',
-              left: '55%',
-              background:
-                'radial-gradient(circle, #0EA5E9 0%, transparent 70%)',
-              animation: 'ripple 7s ease-in-out infinite 4s',
-            }}
-          />
-        </div>
+        {/* Fullscreen background video */}
+        <video
+          autoPlay
+          muted
+          loop
+          playsInline
+          className="absolute inset-0 w-full h-full object-cover"
+        >
+          <source src="/videos/hero-banner.mp4" type="video/mp4" />
+        </video>
 
-        {/* Dot pattern */}
-        <div
-          className="absolute inset-0 opacity-[0.04]"
-          style={{
-            backgroundImage:
-              'radial-gradient(circle, #fff 1px, transparent 1px)',
-            backgroundSize: '40px 40px',
-          }}
-        />
+        {/* Dark gradient overlay for text readability */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#0F172A]/80 via-[#0F172A]/60 to-[#0F172A]/90" />
 
         <motion.div
           style={{ opacity: heroOpacity, y: heroY }}
@@ -208,18 +177,6 @@ export default function HomePage() {
         {/* Bottom gradient fade */}
         <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-gray-50 to-transparent" />
 
-        {/* Ripple keyframes */}
-        <style jsx>{`
-          @keyframes ripple {
-            0%,
-            100% {
-              transform: scale(1);
-            }
-            50% {
-              transform: scale(1.3);
-            }
-          }
-        `}</style>
       </section>
 
       {/* ─── STATS BAR ─── */}
