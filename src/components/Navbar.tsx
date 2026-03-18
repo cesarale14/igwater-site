@@ -52,7 +52,7 @@ export default function Navbar() {
             alt="IG Water"
             width={50}
             height={50}
-            className="w-10 h-10 md:w-[50px] md:h-[50px] mix-blend-screen"
+            className="w-10 h-10 md:w-[50px] md:h-[50px]"
             priority
           />
           <span className="text-xl font-bold text-white font-heading">
